@@ -1,11 +1,34 @@
-### Hi there 👋, Hi there 👋, I'm Alan knows as Kootel!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kootel.kootel" />
+
+### Hi there, I'm Alan knows as Kootel!
 #### I'm from Poland and going to be a Front End Developer
 
+<hr/>
+
+### <h2>Experiences</h2>
+
+### <h4>Technologies, Frameworks and Languages</h4>
+<div align="left">
+        <img width="3%" src="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54ce4a062e939b1455f619bf975/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"/>
+              <img width="3%" src="https://camo.githubusercontent.com/3902a23a4ee524225c3626a76a19391fe4a457e9c70e331e7d51abdfa1d76dbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"/>
+                    <img width="3%" src="https://camo.githubusercontent.com/3d0ddeed2c709ed1cbce62a9c624d0f719d5ed695567a2eef03d61a70c7ff336/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"/>
+                      <img width="3%" src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"/>
+    </a>
+</div>
+
+<hr/>
+
+### <h2>I want to learn</h2>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kootel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kootel2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UClyutrxB2dTk9xqyp1a553g)  
+<div align="left">
+                          <img width="3%" src="https://camo.githubusercontent.com/02892e7637175bfa56960d344557629a61ae75f81c5adb268405fbedfedb813f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667"/>
+                        <img width="3%" src="https://camo.githubusercontent.com/2b07d2d5cc52270c0c534a37cfa905702299e1235357694a264a9843fcad206e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f70757474792f70757474792d6f726967696e616c2e737667"/>
+                          <img width="3%" src="https://camo.githubusercontent.com/19b31de9033843b195ae8278ee9c8ec1115e710000e8c49456e86df96396fb92/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f77696e646f7773382f77696e646f7773382d6f726967696e616c2e737667"/>
+        <img width="3%" src="https://camo.githubusercontent.com/5ac347843ffc804c7ab7d68f7a9745aca424a217056a4fab036172242092e53e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c75612f6c75612d6f726967696e616c2e737667"/>
+        <img width="3%" src="https://camo.githubusercontent.com/0d5534dd6a655164d3127c270557a5e39450dec8c22f71a9830359b6bd8e749b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"/>
+        <img width="3%" src="https://camo.githubusercontent.com/deb312236768606d992c4b0ed501a5fab4c0ed4780b249d3058acce8fa173cbc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626c656e6465722f626c656e6465722d6f726967696e616c2e737667"/>
+</div>
 
-<img alt="stats" algin="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=kootel"/>
 
-<img alt="top" algin="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 
