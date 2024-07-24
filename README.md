@@ -9,5 +9,7 @@ Skills:  JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/kootel)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kootel)](https://github.com/kootel/github-readme-stats)
+<img alt="stats" algin="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=kootel"/>
+
+<img alt="top" algin="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 
