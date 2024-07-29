@@ -30,5 +30,8 @@
         <img width="3%" src="https://camo.githubusercontent.com/deb312236768606d992c4b0ed501a5fab4c0ed4780b249d3058acce8fa173cbc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626c656e6465722f626c656e6465722d6f726967696e616c2e737667"/>
 </div>
 
+## 🐍 Snake
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
